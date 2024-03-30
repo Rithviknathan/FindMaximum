@@ -11,29 +11,29 @@ To write a program to find the maximum of a list of numbers.
 ## Program:
 
 i)	# To find the maximum of marks using the list method sort.
-```Python
+Python
 ![Screenshot (57)](https://github.com/Rithviknathan/FindMaximum/assets/148410509/df72d3cb-a7cd-4e75-b54b-339610551b42)
 
 
 
 
-```
+
 
 ii)	# To find the maximum marks using the list method max().
-```Python
+Python
 ![Screenshot (58)](https://github.com/Rithviknathan/FindMaximum/assets/148410509/a20c418d-c2fc-4278-a3eb-68034acd9051)
 
 
 
-```
+
 
 iii) # To find the maximum marks without using builtin functions.
-```Python
+Python
 ![Screenshot (59)](https://github.com/Rithviknathan/FindMaximum/assets/148410509/454e4af9-d4a1-4875-88ff-b746593e7671)
 
 
 
-```
+
 
 
 
