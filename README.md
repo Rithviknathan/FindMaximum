@@ -37,8 +37,8 @@ iii) # To find the maximum marks without using builtin functions.
 ```
 ''' 
 Program to the maximum marks without using builtin functions.
-Developed by: KEERTHIVASAN M
-RegisterNumber: 212223100021
+Developed by: RITHVIK S
+RegisterNumber: 212223100045
 '''
 def max_marks(list1):
     max = list1[0]
